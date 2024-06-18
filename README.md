@@ -3,7 +3,10 @@
 **Haddop**
 Processing of large/huge ammount of data (Structured, semistructured, unstructured)\
 2003 -> GFS - Google File System\
-2005 -> MapReduce - How communication/gathering/processing.... data across multiple nodes is done. (Nodes: are the small unit of compute (machines, VM....))\
+2005 -> MapReduce - How communication/gathering/processing.... data across multiple nodes is done.\
+(Nodes: are the small unit of compute (machines, VM....))\
 2011 -> Hadoop\ 
-HDFS -> Hadoop Distributed File System (Highly Distributed)\
+HDFS -> Hadoop Distributed File System (Highly Distributed) -> There is no movment of data from one Fs to another.\
 MR -> MapReduce\
+**Map** function helps you to **distribute the results** and **reduce** function helps you to **gather the results**.\
+
